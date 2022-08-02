@@ -7,6 +7,8 @@ Project was developed in ide and pushed to github with following steps:
 
 2. git remote add origin https://github.com/xerocopy/gaussian-binomial-distribution-package.git
 
-3. git commit -m "new project to push to GitHub"
+3. git add -A
 
-4. git push -u -f origin master
+4. git commit -m "new project to push to GitHub"
+
+5. git push -u -f origin master
